@@ -1,4 +1,4 @@
-package subledger
+package subaccounting
 
 import (
 	"sort"
